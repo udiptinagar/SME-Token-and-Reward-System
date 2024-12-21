@@ -8,9 +8,11 @@ Project Description
 
 The SME Token and Reward System incentivizes individuals to create high-quality content and validate it within a blockchain ecosystem. This project combines the power of a custom ERC-20 token, SME Token, with a reward mechanism that compensates contributors and validators fairly. By submitting and validating content, users can earn SME tokens, fostering a community-driven knowledge-sharing platform.
 
-Contract Address
+
+
 
 Contract Address: 0xb7d60e343724f6e92d96410e042810e75d861db5
+<img width="1175" alt="Screenshot 2024-12-21 at 2 31 12 PM" src="https://github.com/user-attachments/assets/7aa0269a-6dd7-4fbe-8396-e5db508bf49b" />
 
 
 Project Vision
